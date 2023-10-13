@@ -17,11 +17,11 @@ output:
 
 ## Bio
 
-I'm an undergraduate student in Genomic Sciences @ [UNAM](unam.mx). I'm interested in bioinformatics and AI applications to study genomic data. I enjoy coding and I'm experienced with bioinformatic pipelines, from genome alignment to RNA-seq analysis, variant calling, database mining and GWAS analysis. I have studied the impact of the autoinmune response on the gene expression in lupus and I'm currently learning about deep-learning software to understant and predict genomic features.
+I'm an undergraduate student in Genomic Sciences @ [UNAM](https://www.unam.mx/). I'm interested in bioinformatics and AI applications to study genomic data. I enjoy coding and I'm experienced with bioinformatic pipelines, from genome alignment to RNA-seq analysis, variant calling, database mining and GWAS analysis. I have studied the impact of the autoinmune response on the gene expression in lupus and I'm currently learning about deep-learning software to understant and predict genomic features.
 
 ## Education
 
-**High School diploma** - [Tecnológico de Monterrey](tec.mx), Morelia, México | 2017 - 2020
+**High School diploma** - [Tecnológico de Monterrey](https://tec.mx/), Morelia, México | 2017 - 2020
 
 **B.S. in Genomic Sciences** - [UNAM](https://www.enesjuriquilla.unam.mx/?page_id=2136), Querétaro, México | 2020 - Present
 
