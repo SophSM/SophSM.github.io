@@ -15,7 +15,7 @@ output:
 
 ## Bio
 
-Genomic Scientist, bioinformatitian and data-enthusiast. I'm interested in the development, understanding and application of methods that leverage large genomic datasets with AI applications to study biological processes. I'm currently working as a data analyst at the Im Lab @ The University of Chicago, where I work on supplementing traditional TWAS frameworks with AI-generated genomic and epigenomic predictions for multiple applications.
+Genomic Scientist, bioinformatitian and data-enthusiast. I'm interested in the development, understanding and application of methods that leverage large genomic datasets with AI applications to study biological processes. I'm currently a first year PhD student in the Quantitative and Computational Biosciences program at the Baylor College of Medicine. 
 
 ## Education
 
