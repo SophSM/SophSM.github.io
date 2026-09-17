@@ -8,7 +8,7 @@ links:
   - label: '`r fontawesome::fa(name = "github", fill = "black")` Github'
     url: "https://github.com/SophSM/"
   - label: '`r fontawesome::fa(name = "envelope", fill = "black")` Mail'
-    url: "mailto:sogusama02@gmail.com"
+    url: "mailto:sofia.salazarmagana@bcm.edu"
 output:
   postcards::trestles
 ---
@@ -18,6 +18,8 @@ output:
 Genomic Scientist, bioinformatitian and data-enthusiast. I'm interested in the development, understanding and application of methods that leverage large genomic datasets with AI applications to study biological processes. I'm currently working as a data analyst at the Im Lab @ The University of Chicago, where I work on supplementing traditional TWAS frameworks with AI-generated genomic and epigenomic predictions for multiple applications.
 
 ## Education
+
+- **PhD Quantitative and Computational Biosciences** - [Baylor College of Medicine](https://www.bcm.edu), Houston, TX | 2026 -
 
 - **B.Sc. Genomic Sciences** - [UNAM](https://www.unam.mx/), Querétaro, México | 2020 - 2024
 
@@ -31,4 +33,4 @@ Genomic Scientist, bioinformatitian and data-enthusiast. I'm interested in the d
 
 ## [Resume](https://sophsm.github.io/CV/)
 
-*Last updated: July 7th 2026*
+*Last updated: September 17th 2026*
